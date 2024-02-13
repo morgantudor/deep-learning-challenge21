@@ -32,6 +32,6 @@ In my final model, I wanted to keep 4 layers but test with less nodes to see if 
 * Were you able to achieve the target model performance?
 In the end, I was not able to achieve the target model performance. The closest I got was in my second optimization model with a rate of 73.14%.
 
-##Summary
+## Summary
 Overall, the most efficient model that I created was had an accuracy of 73.14%. This did not achieve the target model performance of 75% and would therefore mean that this model is not yet ready to be utilized as a trustworthy tool for this company. To increase the effectiveness of our model, many methods could be tried. I would recommend combing through the data in the preprocessing stage and removing more categories that may be too niche to generalize like "SPECIAL_CONSIDERATIONS". I might also consider reintroducing data like "NAME" as that might give the model more to work off of when classifying. 
 
